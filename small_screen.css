@@ -1,0 +1,34 @@
+#earth{
+    width: 30px;
+    height: 30px;
+  }
+
+ .blue{
+    background-color: red;
+    width: 20vw;
+    height: 20vh;
+ }
+
+ .text{
+   color: yellow;
+   font-size: medium;
+ }
+ 
+ .big{
+  background-image: url("/forest.jfif");
+}
+
+.small{
+  border-radius: 120%;
+  width: 20vw;
+  height: 20vh;
+}
+
+#ins{
+  filter: grayscale(100%)
+}
+
+a{
+  display: flex;
+  flex-direction: column;
+}

@@ -1,0 +1,30 @@
+ #earth{
+    width: 100px;
+    height: 100px;
+ }
+
+ .blue{
+    background-color: blue;
+    width: 20vw;
+    height: 20vh;
+ }
+ .text{
+    color: white;
+ }
+
+ .big{
+    background-image: url("/mountain.jfif");
+ }
+
+ .small{
+    width: 20vw;
+    height: 20vh;
+ }
+
+#ins{
+   filter: blur(100px);
+}
+a{
+   display: flex;
+   flex-direction: row-reverse;
+}
